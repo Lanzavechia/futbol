@@ -1,2 +1,1 @@
-# futbol
-ASDDASDASDAS
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Admin\Desktop\Api\football-db-toptive-firebase-adminsdk-mmpoz-83a1527499.json"
